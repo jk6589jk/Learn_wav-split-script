@@ -1,5 +1,5 @@
 # Learn_wav-split-script
-一个简单的wav分割小程序.
+一个简单的wav分割小程序,在准备MockingBird的音频样本的时候编的一个小程序,顺便第一次用github,试试看
 >用NuGet安装一下NAudio
 >
 使用方法:选择音频文件(wav),然后选择字幕文件(srt),然后选择保存路径
@@ -16,3 +16,4 @@
 开始序号就是文件名后面的后缀
 
 重命名是用SpleeterGui降噪后使用的,可以一键提取一下声音文件
+
